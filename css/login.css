@@ -1,0 +1,23 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.form-container {
+    position: absolute;
+    top: 20vh;
+    padding: 30px;
+    background-color: #fff;
+}
+
+.form-image {
+    max-height: 140px;
+    max-width: 140px;
+    margin-bottom: 10px;
+}

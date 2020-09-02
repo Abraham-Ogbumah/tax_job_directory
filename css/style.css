@@ -1,0 +1,41 @@
+body {}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+
+.mid-section {
+    /* height: 825px; */
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 56px;
+    bottom: 56px;
+}
+
+.form-section {
+    margin: auto;
+}
+
+.page-footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.card {
+    margin-bottom: 20px;
+}
